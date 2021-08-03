@@ -9,12 +9,11 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pelipes-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>  
-<div style="display: inline_block"><br>
+  <img align="center" alt="Pelipes-Docker" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Pelipes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
- 
+</div>  
+
+   
   ##
   
   
