@@ -29,4 +29,12 @@
   <a href="https://twitter.com/PelipesDevOps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/ERJGUFb8pu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfelipecabral&label=Profile%20views&color=0e75b6&style=flat" alt="luisfelipecabral" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfelipecabral" alt="luisfelipecabral" /></a> </p>
+  
+  
 </div>
+  
+  
